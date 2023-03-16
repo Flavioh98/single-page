@@ -1,0 +1,21 @@
+.fundo-laranja{
+    background-color: #ff4400;
+}
+
+.padd-padrao{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.bg-preto{
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 4px;
+}
+
+/* regra do carrossel */
+
+#banner-top{
+    width: 80%;
+    margin: 0 auto;
+
+}
